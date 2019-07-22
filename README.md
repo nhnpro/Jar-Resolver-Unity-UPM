@@ -9,7 +9,7 @@ Make By 1B (nhnpro.nguyenhoang@gmail.com) for personal Projects
 {  
   "dependencies": {
 		...
-		"com.namnh.jar-resolver-unity": "https://github.com/nhnpro/Jar-Resolver-Unity-UPM.git#0.0.3",
+		"com.namnh.jar-resolver-unity": "https://github.com/nhnpro/Jar-Resolver-Unity-UPM.git#1.2.122",
 		...
 	}
 }
