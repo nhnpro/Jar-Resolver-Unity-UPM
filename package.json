@@ -1,6 +1,6 @@
 {
 	"name": "com.namnh.jar-resolver-unity",
-	"version": "1.2.122",
+	"version": "1.2.124",
 	"displayName": "NHN-Play-Service-Resolver",
 	"unity": "2018.3",
 	"description": "Play Service Resolver UPM (WIP By 1B-NamNH)",
